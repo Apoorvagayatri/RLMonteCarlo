@@ -67,7 +67,7 @@ Results from training are saved in the `results/` directory. You can visualize t
 
 Comprehensive documentation is available in the `docs/` directory:
 
-- [Observations Report](FlapPyBird/docs/observations_report.pdf)
+- [Observations Report](docs/observations_report.pdf)
 
 ## License
 
